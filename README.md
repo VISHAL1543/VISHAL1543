@@ -65,9 +65,9 @@ All project documentation and presentations have been completed, reviewed, and f
 ## 📬 Contact
 
 **Vishal Aggarwal**  
-Roll Number: 2110991543
-Email: vishal1543.be21@chitkara.edu.in
-Contact Number: 8427861597
+- Roll Number: 2110991543
+- Email: vishal1543.be21@chitkara.edu.in
+- Contact Number: 8427861597
 
 
 ---
