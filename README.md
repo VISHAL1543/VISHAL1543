@@ -62,7 +62,7 @@ All project documentation and presentations have been completed, reviewed, and f
 
 ---
 
-## 📬 Contact
+## 📬 Contact:
 
 **Vishal Aggarwal**  
 - Roll Number: 2110991543
