@@ -1,4 +1,4 @@
-# 🎓 CS-253 Final Project Documentation Repository – *Watermelon Integration Platform*
+# 🎓 CS-253 Final Project Documentation Repository – *WATERMELON – AN AI-DRIVEN AUTOMATION TESTING TOOL*
 
 This repository contains the complete documentation submitted for the **Final Project** under the **Industry-Oriented Hands-on Experience (CS-253)** course for **Batch-2021** at **Chitkara University**.
 
